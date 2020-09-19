@@ -15411,6 +15411,8 @@ W = angled&lt;p&gt;
 <sheets>
 <sheet>
 <plain>
+<text x="152.4" y="-81.28" size="2.286" layer="91">Copyright Alan Wood 2020
+@folknology www.mystorm.uk</text>
 </plain>
 <instances>
 <instance part="IC8" gate="G$1" x="137.16" y="58.42"/>
@@ -17533,4 +17535,10 @@ W = angled&lt;p&gt;
 </sheets>
 </schematic>
 </drawing>
+<compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
+</compatibility>
 </eagle>
