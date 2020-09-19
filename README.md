@@ -1,5 +1,5 @@
 # Alloy
-Alloy a OpenSource hardware fusion of FPGA and Microcontroller in a Feather compatible format, a project of the myStorm communtiy.
+Alloy a OpenSource hardware fusion of FPGA and WiFi Microcontrolle in a [Feather](https://learn.adafruit.com/adafruit-feather/feather-specification) compatible layout, a project of the myStorm communtiy.
 
 Current status is hardware prototype, you can see the developments i am making on it in my regular streams :
 *  [Live Stream, 8pm BST](https://www.twitch.tv/folknology)
